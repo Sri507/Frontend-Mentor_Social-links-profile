@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL](https://github.com/Sri507/Frontend-Mentor_Social-links-profile)
 - Live Site URL: [live site URL](https://sri507.github.io/Frontend-Mentor_Social-links-profile/)
 
 ## My process
